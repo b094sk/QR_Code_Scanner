@@ -1,4 +1,4 @@
-name: myweb2
+name: QR_Code_Scanner 
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -29,9 +29,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
 
   cupertino_icons: ^1.0.2
-  flutter_inappwebview: ^5.3.2
+#   flutter_inappwebview: ^5.3.2
 #  flutter_webview_plugin: ^0.4.0
-  url_launcher: ^6.0.6
+#   url_launcher: ^6.0.6
 #  flutter_webview_plugin: ^0.4.0
 #  webview_flutter: ^2.0.8
 #  web_browser: ^0.5.0
@@ -76,50 +76,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-     - assets/icon/agoda.png
-     - assets/icon/airbnb-transparent.png
-     - assets/icon/ajio.jpg
-     - assets/icon/Amazon_icon.png
-     - assets/icon/ask-com.png
-     - assets/icon/big-basket-new.jpg
-     - assets/icon/bing.png
-     - assets/icon/booking.png
-     - assets/icon/Easemytrip.jpg
-     - assets/icon/ebay.png
-     - assets/icon/expedia.png
-     - assets/icon/facebook.png
-     - assets/icon/flipkart_icon.png
-     - assets/icon/gana.png
-     - assets/icon/goibibo_india_logo.png
-     - assets/icon/google.png
-     - assets/icon/hotstar.jpg
-     - assets/icon/IcredibleIndia-EN-Preview.png
-     - assets/icon/Instagram.png
-     - assets/icon/IRCTC_Logo.png
-     - assets/icon/makemytrip.png
-     - assets/icon/clear_trip.jpg
-     - assets/icon/myntra_.JPG
-     - assets/icon/netflixlogo.0.0.jpg
-     - assets/icon/OYO-Rooms-Logo-.png
-     - assets/icon/pinterest.png
-     - assets/icon/prime-video.png
-     - assets/icon/saavn.png
-     - assets/icon/shopclues-512.png
-     - assets/icon/snapdeal-512.png
-     - assets/icon/Swiggy-Logo-Tagline-Slogan.jpg
-     - assets/icon/travelguru.png
-     - assets/icon/Twitter-featured.png
-     - assets/icon/wynk-music.jpg
-     - assets/icon/yahoo.png
-     - assets/icon/yatra.png
-     - assets/icon/YouTube-logo.jpg
-     - assets/icon/zomato-logo.png
-     - assets/icon/qr.png
-     - assets/icon/moreapps.png
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
-
+#   assets:
+    
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
